@@ -34,9 +34,9 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 Children’s Privacy
 
-Our apps and our website are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our Game may unintentionally appeal to children.
+Our apps and our website are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our App may unintentionally appeal to children.
 
-An age gate is in place at the launch of the Game, which shall direct each user to the part of the App that is applicable to that user’s age bracket.
+An age gate is in place at the launch of the App, which shall direct each user to the part of the App that is applicable to that user’s age bracket.
 
 We do not collect any personally identifiable information within the age gated part of our App for children, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years.
 
